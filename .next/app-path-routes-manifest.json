@@ -1,0 +1,12 @@
+{
+  "/api/products/route": "/api/products",
+  "/_not-found/page": "/_not-found",
+  "/[...not_found]/page": "/[...not_found]",
+  "/cart/page": "/cart",
+  "/deals/page": "/deals",
+  "/flowers/page": "/flowers",
+  "/page": "/",
+  "/strawberry/page": "/strawberry",
+  "/privacy/page": "/privacy",
+  "/terms/page": "/terms"
+}
